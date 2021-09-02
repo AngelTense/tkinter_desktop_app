@@ -1,2 +1,2 @@
 def reduce_fraction():
-    pass
+    print("Hello_world")
